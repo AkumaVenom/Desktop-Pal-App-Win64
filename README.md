@@ -18,7 +18,7 @@ L key makes the app clickable.
 
 3 key makes the app window always on top.
 
-4 key makes the app window disble being on top.
+4 key makes the app window disable being on top.
 
 ===========================================================
 
