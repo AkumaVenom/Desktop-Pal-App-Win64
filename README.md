@@ -20,7 +20,7 @@ The model can be replaced in the packaged build of the game to any that you want
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
-Mi Lita is a work in progress that is currently in the early alpha stage at the moment.
+work in progress that is currently in the early alpha stage at the moment.
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
