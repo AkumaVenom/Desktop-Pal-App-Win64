@@ -28,7 +28,7 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 Save Data Info:
 
-ChatHistory.sav is all the history of chat you have had with Lita, Delete it to start over with her.
+ChatHistory.sav is all the history of chat you have had with the A.I, Delete it to start over with her.
 
 ===========================================================
 
