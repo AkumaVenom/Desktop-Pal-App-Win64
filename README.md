@@ -6,6 +6,22 @@ Download: https://drive.google.com/file/d/1dUZqxX9IfiRvKN3Z7lecSFmKICQapbAH/view
 
 ![Screenshot 2025-02-26 153634](https://github.com/user-attachments/assets/2274b4d5-3bef-43b0-a027-7b629d1d4072)
 
+===========================================================
+
+Controls:
+
+F6 & F7 Keys can toggle the UIs on and off.
+
+L key makes the app clickable.
+
+1 key makes you be able to click through the app.
+
+3 key makes the app window always on top.
+
+4 key makes the app window disble being on top.
+
+===========================================================
+
 Introducing Desktop Pal, an AI-powered companion that seamlessly integrates into your desktop experience, bringing a new level of interaction to your digital workspace. Powered by native text-to-speech LLM models, Desktop Pal allows you to converse, engage, and get assistance—all while continuing your tasks without interruption.
 
 Your default companion, Riku, is a friendly and intelligent female AI who’s not just here to help, but to connect with you. Whether you need support with your work, want to brainstorm ideas, or simply need someone to talk to, Desktop Pal is always there. With the ability to enter any initial prompt and use any GGUF model downloaded from Hugging Face, you can personalize your companion to suit your needs and make every interaction feel more natural.
