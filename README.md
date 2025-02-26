@@ -12,6 +12,8 @@ Download App Here: https://drive.google.com/file/d/1dUZqxX9IfiRvKN3Z7lecSFmKICQa
 
 Controls:
 
+Hold T key while talking into microphone to speak to the a.i
+
 F6 & F7 Keys can toggle the UIs on and off.
 
 L key makes the app clickable.
