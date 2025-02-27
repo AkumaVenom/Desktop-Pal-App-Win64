@@ -2,7 +2,21 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download App Here: https://drive.google.com/file/d/1dUZqxX9IfiRvKN3Z7lecSFmKICQapbAH/view?usp=sharing
+Download App v0.0.6.0 Here: https://drive.google.com/file/d/1dUZqxX9IfiRvKN3Z7lecSFmKICQapbAH/view?usp=sharing
+
+===========================================================
+
+v0.0.7.0 Update Coming Soon
+
+-Use Voice Commands and typing to her To Dress the A.I and you will also get a response from her to.
+
+Commands:
+
+Dress her in her regular attire: "Put on your normal clothes"
+
+Dress her in her bikini attire: "Put on your bikini suit"
+
+Dress her in her sleep attire: "Put on your sleep wear"
 
 ===========================================================
 
