@@ -2,11 +2,11 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download App v0.0.6.0 Here: https://drive.google.com/file/d/1dUZqxX9IfiRvKN3Z7lecSFmKICQapbAH/view?usp=sharing
+Download App v0.0.7.0a Here: https://drive.google.com/file/d/1fBvDX6bg-GxSpVDXtpgSBnyaFfynqbWp/view?usp=sharing
 
 ===========================================================
 
-v0.0.7.0 Update Coming Soon
+v0.0.7.0 Update now available
 
 -Use Voice Commands and typing to her To Dress the A.I and you will also get a response from her to.
 
