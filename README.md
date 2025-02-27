@@ -30,6 +30,8 @@ Hold T key while talking into microphone to speak to the a.i
 
 F6 & F7 Keys can toggle the UIs on and off.
 
+F11 Key toggles between Fullscreen & Windowed Mode
+
 L key makes the app clickable.
 
 1 key makes you be able to click through the app.
