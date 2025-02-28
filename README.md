@@ -80,8 +80,9 @@ Requires a CPU that supports AVX, AVX2 and FMA.
 
 The following CPUs should work:
 
-    Intel: 4th Generation (Haswell) and above
-    AMD: All Ryzen series
+Intel: 4th Generation (Haswell) and above
+
+AMD: All Ryzen series
 
 ========================================
 
