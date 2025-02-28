@@ -70,7 +70,7 @@ Ram: 16GB
 
 Video Ram: 6GB
 
-SSD/HDD: 5GB
+SSD/HDD: 10GB
 
 Direct X 11
 
