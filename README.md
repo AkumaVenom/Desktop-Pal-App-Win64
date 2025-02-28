@@ -72,9 +72,16 @@ Video Ram: 6GB
 
 SSD/HDD: 10GB
 
-Direct X 11
+Direct X 11 & Direct X 12
 
 OS: Windows 11 64bit
+
+Requires a CPU that supports AVX, AVX2 and FMA.
+
+The following CPUs should work:
+
+    Intel: 4th Generation (Haswell) and above
+    AMD: All Ryzen series
 
 ========================================
 
