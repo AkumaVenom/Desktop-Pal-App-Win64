@@ -2,21 +2,7 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download App v0.0.7.0a Here: https://drive.google.com/file/d/1fBvDX6bg-GxSpVDXtpgSBnyaFfynqbWp/view?usp=sharing
-
-===========================================================
-
-v0.0.7.0 Update now available
-
--Use Voice Commands and typing to her To Dress the A.I and you will also get a response from her to.
-
-Commands:
-
-Dress her in her regular attire: "Put on your normal clothes"
-
-Dress her in her bikini attire: "Put on your bikini suit"
-
-Dress her in her sleep attire: "Put on your sleep wear"
+Download App v0.0.7.1a Here: https://drive.google.com/file/d/1FS3MJnGox1W-34aTdWlbLp33nmiGXx3C/view?usp=sharing
 
 ===========================================================
 
@@ -32,13 +18,13 @@ F6 & F7 Keys can toggle the UIs on and off.
 
 F11 Key toggles between Fullscreen & Windowed Mode
 
-L key makes the app clickable.
+F2 key makes the app clickable.
 
-1 key makes you be able to click through the app.
+F3 key makes you be able to click through the app.
 
-3 key makes the app window always on top.
+F10 key makes the app window always on top.
 
-4 key makes the app window disable being on top.
+F12 key makes the app window disable being on top.
 
 ===========================================================
 
@@ -62,7 +48,29 @@ The model can be replaced in the packaged build of the game to any that you want
 
 work in progress that is currently in the early alpha stage at the moment.
 
-========================================
+===========================================================
+
+v0.0.7.1 Update:
+
+Changed the app controls.
+
+Changed the packaged build of the app from development to shipping
+
+===========================================================
+
+v0.0.7.0 Update:
+
+-Use Voice Commands and typing to her To Dress the A.I and you will also get a response from her to.
+
+Commands:
+
+Dress her in her regular attire: "Put on your normal clothes"
+
+Dress her in her bikini attire: "Put on your bikini suit"
+
+Dress her in her sleep attire: "Put on your sleep wear"
+
+===========================================================
 
 Recommended System Requirements:
 
