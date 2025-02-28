@@ -42,7 +42,7 @@ https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&targ
 
 ===========================================================
 
-The model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format. Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
+The a.i model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format. Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
@@ -99,6 +99,8 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 ===========================================================
 
 Save Data Info:
+
+Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames\ChatHistory.sav
 
 ChatHistory.sav is all the history of chat you have had with the A.I, Delete it to start over with her.
 
