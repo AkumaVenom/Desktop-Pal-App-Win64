@@ -62,7 +62,21 @@ The model can be replaced in the packaged build of the game to any that you want
 
 work in progress that is currently in the early alpha stage at the moment.
 
-===========================================================
+========================================
+
+Recommended System Requirements:
+
+Ram: 16GB
+
+Video Ram: 6GB
+
+SSD/HDD: 5GB
+
+Direct X 11
+
+OS: Windows 11 64bit
+
+========================================
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
