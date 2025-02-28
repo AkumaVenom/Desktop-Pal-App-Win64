@@ -100,7 +100,7 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 Save Data Info:
 
-Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames\ChatHistory.sav
+Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
 
 ChatHistory.sav is all the history of chat you have had with the A.I, Delete it to start over with her.
 
