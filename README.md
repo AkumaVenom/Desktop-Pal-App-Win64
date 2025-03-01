@@ -2,7 +2,7 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download App v0.0.7.1a Here: https://drive.google.com/file/d/1FS3MJnGox1W-34aTdWlbLp33nmiGXx3C/view?usp=sharing
+Download App v0.0.8.0a Here: https://drive.google.com/file/d/1I2tAH30bEQ2FAAGcld-C0Ur1CwaLeK1d/view?usp=sharing
 
 ===========================================================
 
@@ -50,13 +50,17 @@ work in progress that is currently in the early alpha stage at the moment.
 
 ===========================================================
 
+v0.0.8.0 Update:
+
+Updated app to UE5.5 - Big improvement running gguf models
+
+updated the code for the chat history save data - save data improvement
+
 v0.0.7.1 Update:
 
 Changed the app controls.
 
 Changed the packaged build of the app from development to shipping
-
-===========================================================
 
 v0.0.7.0 Update:
 
