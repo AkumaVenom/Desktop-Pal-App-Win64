@@ -2,11 +2,17 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download App v0.0.9.0a Here: https://drive.google.com/file/d/1FbzYgN_Avj-IZPB0_T-iWDyPBmpiJMMQ/view?usp=sharing
+Download App v0.0.10.0a Here: Link Coming Very Soon.
 
-v0.0.9.0 Update:
+v0.0.10.0 Update:
 
--Implemented high quality TTS Kokoro 82M voice model Jessica for the A.I's voice
+Choose from 3 different TTS Voices at runtime in the new dropdown selection options.
+
+-Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
+
+-Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
+
+-Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
 
 ===========================================================
 
@@ -54,7 +60,17 @@ work in progress that is currently in the early alpha stage at the moment.
 
 ===========================================================
 
-New v0.0.9.0 Update:
+New v0.0.10.0 Update:
+
+Choose from 3 different TTS Voices at runtime in the new dropdown selection options.
+
+-Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
+
+-Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
+
+-Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
+
+v0.0.9.0 Update:
 
 Implemented High Quality TTS Kokoro 82M voice model Jessica for the A.I's voice
 
