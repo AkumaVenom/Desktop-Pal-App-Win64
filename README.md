@@ -6,7 +6,7 @@ Download v0.0.11.0a: https://drive.google.com/file/d/18WFG3Aqgwe7cYBYTKmx8X-A2Oq
 
 v0.0.11.0 Update:
 
-Enabled CUDA support as the defaut, The LLM will generate text much faster & use more GPU layers now.
+Enabled CUDA support as the default, The LLM will generate text much faster & use more GPU layers now.
 
 Applied Updated TTS & Audio Importer.
 
