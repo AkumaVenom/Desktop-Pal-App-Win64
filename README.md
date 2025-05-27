@@ -2,17 +2,13 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.10.0a: https://drive.google.com/file/d/1fSPzP8zvFdCwDPnw41izTaKCL8arLEvT/view?usp=sharing
+Download v0.0.11.0a: https://drive.google.com/file/d/18WFG3Aqgwe7cYBYTKmx8X-A2OqkODtGv/view
 
-v0.0.10.0 Update:
+v0.0.11.0 Update:
 
-Choose from 3 different TTS Voices at runtime in the new dropdown selection options.
+Enabled CUDA support as the defaut, The LLM will generate text much faster & use more GPU layers now.
 
--Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
-
--Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
-
--Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
+Applied Updated TTS & Audio Importer.
 
 ===========================================================
 
@@ -60,7 +56,13 @@ work in progress that is currently in the early alpha stage at the moment.
 
 ===========================================================
 
-New v0.0.10.0 Update:
+v0.0.11.0 Update:
+
+Enabled CUDA support as the defaut, The LLM will generate text much faster & use more GPU layers now.
+
+Applied Updated TTS & Audio Importer.
+
+v0.0.10.0 Update:
 
 Choose from 3 different TTS Voices at runtime in the new dropdown selection options.
 
