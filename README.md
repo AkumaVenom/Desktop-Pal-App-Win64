@@ -42,13 +42,23 @@ More than just an assistant, Desktop Pal is a true companion—working alongside
 
 ===========================================================
 
-It is highly recommended to install Cuda 12.2 even if you dont use it for improved load time and if Cuda is not detected it will still work but take longer to load the game up.
+Commands:
+
+Dress her in her regular attire: "Put on your normal clothes"
+
+Dress her in her bikini attire: "Put on your bikini suit"
+
+Dress her in her sleep attire: "Put on your sleep wear"
+
+===========================================================
+
+It is highly recommended to install Cuda 12.2 for use with the LLM and if Cuda is not detected it will use CPU instead.
 
 https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
 ===========================================================
 
-The a.i model can be replaced in the packaged build of the game to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format. Note: don't expect every GGUF model to work but i have tested many and a lot work and some do not.
+The GGUF LLM model can be replaced in the packaged build of the app to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
@@ -71,34 +81,6 @@ Choose from 3 different TTS Voices at runtime in the new dropdown selection opti
 -Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
 
 -Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
-
-v0.0.9.0 Update:
-
-Implemented High Quality TTS Kokoro 82M voice model Jessica for the A.I's voice
-
-v0.0.8.0 Update:
-
-Updated app to UE5.5 - Big improvement running gguf models
-
-updated the code for the chat history save data - save data improvement
-
-v0.0.7.1 Update:
-
-Changed the app controls.
-
-Changed the packaged build of the app from development to shipping
-
-v0.0.7.0 Update:
-
--Use Voice Commands and typing to her To Dress the A.I and you will also get a response from her to.
-
-Commands:
-
-Dress her in her regular attire: "Put on your normal clothes"
-
-Dress her in her bikini attire: "Put on your bikini suit"
-
-Dress her in her sleep attire: "Put on your sleep wear"
 
 ===========================================================
 
@@ -132,7 +114,7 @@ Save Data Info:
 
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
 
-ChatHistory.sav is all the history of chat you have had with the A.I, Delete it to start over with her.
+ChatHistory.sav is all the history of chat you have had with the LLM AI, Delete it to start over with her.
 
 ===========================================================
 
