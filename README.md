@@ -12,7 +12,7 @@ Applied Updated TTS & Audio Importer.
 
 ===========================================================
 
-![Screenshot 2025-02-26 153634](https://github.com/user-attachments/assets/2274b4d5-3bef-43b0-a027-7b629d1d4072)
+![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
 ===========================================================
 
