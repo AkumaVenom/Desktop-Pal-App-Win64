@@ -2,13 +2,13 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.11.0a: https://drive.google.com/file/d/18WFG3Aqgwe7cYBYTKmx8X-A2OqkODtGv/view
+Download v0.0.12.0a: https://drive.google.com/file/d/1UBpuTRTKxL0PS8Fe4phLHs5E0_k3x-f2/view?usp=sharing
 
-v0.0.11.0 Update:
+-Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
 
-Enabled CUDA support as the default, The LLM will generate text much faster & use more GPU layers now.
+-Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
 
-Applied Updated TTS & Audio Importer.
+-Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
 
 ===========================================================
 
@@ -65,6 +65,14 @@ The GGUF LLM model can be replaced in the packaged build of the app to any that 
 work in progress that is currently in the early alpha stage at the moment.
 
 ===========================================================
+
+v0.0.12.0 Update:
+
+-Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
+
+-Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
+
+-Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
 
 v0.0.11.0 Update:
 
