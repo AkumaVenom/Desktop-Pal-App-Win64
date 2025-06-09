@@ -2,13 +2,9 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.12.0a: https://drive.google.com/file/d/1UBpuTRTKxL0PS8Fe4phLHs5E0_k3x-f2/view?usp=sharing
+Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
 
--Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
-
--Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
-
--Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
+-Fixed a sound issue when app window becomes unfocused, the speech audio could not be heared.
 
 ===========================================================
 
