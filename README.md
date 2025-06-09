@@ -4,7 +4,7 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
 
--Fixed a sound issue when app window becomes unfocused, the speech audio could not be heared.
+-Fixed a sound issue when app window becomes unfocused, the speech audio could not be heard.
 
 ===========================================================
 
