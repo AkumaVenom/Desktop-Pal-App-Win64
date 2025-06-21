@@ -6,9 +6,9 @@ Download v0.0.14.0a: https://drive.google.com/file/d/1eCLaXbqR2H3Df7T-U2wrMn1DVY
 
 -changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
 
--Recommend VRAM 8GB + System RAM 32GB
-
 -Now uses a custom 32K llama3 GGUF model
+
+-New Version Recommend VRAM 8GB + System RAM 32GB
 
 -Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
 
@@ -72,37 +72,11 @@ work in progress that is currently in the early alpha stage at the moment.
 
 ===========================================================
 
-v0.0.12.0 Update:
-
--Optimized and changed code for saving & loading LLM chat history, now has very fast loading of saved chat history.
-
--Removed auto saving of chat history, Added a new Save Chat Button so you can decide when you want to save chat.
-
--Handles larger contexts better now. (faster LLM text generation than before when context becomes big)
-
-v0.0.11.0 Update:
-
-Enabled CUDA support as the defaut, The LLM will generate text much faster & use more GPU layers now.
-
-Applied Updated TTS & Audio Importer.
-
-v0.0.10.0 Update:
-
-Choose from 3 different TTS Voices at runtime in the new dropdown selection options.
-
--Implemented high quality TTS Kokoro 82M voice model "Jessica" for selection as the A.I's voice
-
--Implemented high quality TTS Kokoro 82M voice model "Heart" for selection as the A.I's voice
-
--Implemented fastest TTS "Libritts_R Medium" for selection as the A.I's voice
-
-===========================================================
-
 Recommended System Requirements:
 
-Ram: 16GB
+Ram: 32GB
 
-Video Ram: 6GB
+Video Ram: 8GB
 
 SSD/HDD: 10GB
 
