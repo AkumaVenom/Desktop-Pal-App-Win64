@@ -2,9 +2,19 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
+Download v0.0.14.0a: https://drive.google.com/file/d/1eCLaXbqR2H3Df7T-U2wrMn1DVYC-SnvB/view?usp=sharing
 
--Fixed a sound issue when app window becomes unfocused, the speech audio could not be heard.
+-changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
+
+-Recommend VRAM 8GB + System RAM 32GB
+
+-Now uses a custom 32K llama3 GGUF model
+
+-Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
+
+-Added 3 unique Character models fully animated on screen: 2 females & 1 male.
+
+"Multiple chat save slots to save and load will be coming in a future update soon"
 
 ===========================================================
 
