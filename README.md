@@ -4,6 +4,12 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 Download v0.0.14.0a: https://drive.google.com/file/d/1eCLaXbqR2H3Df7T-U2wrMn1DVYC-SnvB/view?usp=sharing
 
+Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
+
+===========================================================
+
+New Update v0.0.14.0a:
+
 -changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
 
 -Now uses a custom 32K llama3 GGUF model
