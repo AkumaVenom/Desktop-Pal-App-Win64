@@ -70,7 +70,7 @@ https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&targ
 
 ===========================================================
 
-The GGUF LLM model can be replaced in the packaged build of the app to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
+The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use but a 32k context length model will most likely be required, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format and 32k context length.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
