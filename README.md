@@ -104,8 +104,6 @@ Save Data Info:
 
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
 
-ChatHistory.sav is all the history of chat you have had with the LLM AI, Delete it to start over with her.
-
 ===========================================================
 
 v0.0.14.0a:
