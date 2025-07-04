@@ -2,25 +2,19 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.14.0a: https://drive.google.com/file/d/1eCLaXbqR2H3Df7T-U2wrMn1DVYC-SnvB/view?usp=sharing
+Download v0.0.15.0a: https://drive.google.com/file/d/10W5H5SLA9--jFq40UdMDCnXU691h2reF/view?usp=sharing
 
 Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
 
 ===========================================================
 
-New Update v0.0.14.0a:
+New Update v0.0.15.0a:
 
--changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
+Added 5 save slots to save and load different chat histories.
 
--Now uses a custom 32K llama3 GGUF model
+Added GLaDOS Voice from the game Portal
 
--New Version Recommend VRAM 8GB + System RAM 32GB
-
--Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
-
--Added 3 unique Character models fully animated on screen: 2 females & 1 male.
-
-"Multiple chat save slots to save and load will be coming in a future update soon"
+Added Simplified Chinese Voice
 
 ===========================================================
 
@@ -111,6 +105,22 @@ Save Data Info:
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
 
 ChatHistory.sav is all the history of chat you have had with the LLM AI, Delete it to start over with her.
+
+===========================================================
+
+v0.0.14.0a:
+
+-changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
+
+-Now uses a custom 32K llama3 GGUF model
+
+-New Version Recommend VRAM 8GB + System RAM 32GB
+
+-Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
+
+-Added 3 unique Character models fully animated on screen: 2 females & 1 male.
+
+"Multiple chat save slots to save and load will be coming in a future update soon"
 
 ===========================================================
 
