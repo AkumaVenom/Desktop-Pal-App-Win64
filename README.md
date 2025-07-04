@@ -118,8 +118,6 @@ v0.0.14.0a:
 
 -Added 3 unique Character models fully animated on screen: 2 females & 1 male.
 
-"Multiple chat save slots to save and load will be coming in a future update soon"
-
 ===========================================================
 
 ![Screenshot 2025-02-26 152321](https://github.com/user-attachments/assets/c59ebebc-ae50-49da-b546-a1a51b01ed0c)
