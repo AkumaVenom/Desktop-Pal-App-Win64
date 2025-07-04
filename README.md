@@ -2,19 +2,17 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.15.0a: https://drive.google.com/file/d/10W5H5SLA9--jFq40UdMDCnXU691h2reF/view?usp=sharing
+Download v0.0.16.0a: https://drive.google.com/file/d/1ygtb02RVNmXO3zlwdNniMjWA2G9D8e0d/view?usp=sharing
 
 Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
 
 ===========================================================
 
-New Update v0.0.15.0a:
+New Update v0.0.16.0a:
 
-Added 5 save slots to save and load different chat histories.
+Added a total of 10 save slots to save and load different chat histories.
 
-Added GLaDOS Voice from the game Portal
-
-Added Simplified Chinese Voice
+Added a new animated 3D character to select "Female 3"
 
 ===========================================================
 
@@ -105,6 +103,14 @@ Save Data Info:
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
 
 ===========================================================
+
+Update v0.0.15.0a:
+
+Added 5 save slots to save and load different chat histories.
+
+Added GLaDOS Voice from the game Portal
+
+Added Simplified Chinese Voice
 
 v0.0.14.0a:
 
