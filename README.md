@@ -2,9 +2,21 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.17.0a: https://drive.google.com/file/d/1D5RLSeDqh3345K7VkD_Wrz4Ixa4_tq38/view?usp=sharing
+(64K Context Length) v0.0.17.1a: Coming Very Soon!
 
-Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
+(32K Context Length) v0.0.17.0a: https://drive.google.com/file/d/1D5RLSeDqh3345K7VkD_Wrz4Ixa4_tq38/view?usp=sharing
+
+(8K Context Length) v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
+
+===========================================================
+
+Update v0.0.17.1a:
+
+-changed LLM context length to a higher 64K from the original 8K & 32K lengths
+
+-Now uses a custom 64K llama3 GGUF model
+
+-Version (0.0.17.1) Recommended VRAM 14GB + System RAM 32GB
 
 ===========================================================
 
@@ -64,11 +76,7 @@ https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&targ
 
 ===========================================================
 
-The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use but a 32k context length model will most likely be required for any app versions passed v0.0.13.0a, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format and 32k context length.
-
-Versions 0.0.14.0+ uses 32K context length.
-
-Version v0.0.13.0a uses 8K context length.
+The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use but a 32k context length model will most likely be required for any app versions passed v0.0.13.0a, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
@@ -76,9 +84,11 @@ Version v0.0.13.0a uses 8K context length.
 
 Recommended System Requirements:
 
-Ram: 32GB
+-Version (0.0.17.1) (64K Context Length) Recommended VRAM 14GB + System RAM 32GB
 
-Video Ram: 8GB
+-Version (0.0.17.0) (32K Context Length) Recommended VRAM 8GB + System RAM 20GB
+
+-Version (0.0.13.0) (8K Context Length) Recommended VRAM 6GB + System RAM 16GB
 
 SSD/HDD: 10GB
 
