@@ -2,7 +2,7 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-(64K Context Length) v0.0.17.1a: Coming Very Soon!
+(64K Context Length) v0.0.17.1a: https://drive.google.com/file/d/1bzLx_wU0MOVepLUlvo8gOGDGZNOszKNE/view?usp=sharing
 
 (32K Context Length) v0.0.17.0a: https://drive.google.com/file/d/1D5RLSeDqh3345K7VkD_Wrz4Ixa4_tq38/view?usp=sharing
 
