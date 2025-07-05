@@ -2,17 +2,19 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-Download v0.0.16.0a: https://drive.google.com/file/d/1ygtb02RVNmXO3zlwdNniMjWA2G9D8e0d/view?usp=sharing
+Download v0.0.17.0a: https://drive.google.com/file/d/1D5RLSeDqh3345K7VkD_Wrz4Ixa4_tq38/view?usp=sharing
 
 Download v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
 
 ===========================================================
 
-New Update v0.0.16.0a:
+Update v0.0.17.0a:
 
-Added a total of 10 save slots to save and load different chat histories.
+Memories Feature (Experimental)
 
-Added a new animated 3D character to select "Female 3"
+-Added an editable text box to save new memories into existing inital prompts, Just type or paste text into the Memories box and then click the save memory button and the LLM will never forget your new added memory.
+
+(Just remember to be mindful of the 32k context length overall)
 
 ===========================================================
 
@@ -104,6 +106,12 @@ Save data is located in the hidden appdata folder: C:\Users\computername\AppData
 
 ===========================================================
 
+Update v0.0.16.0a:
+
+Added a total of 10 save slots to save and load different chat histories.
+
+Added a new animated 3D character to select "Female 3"
+
 Update v0.0.15.0a:
 
 Added 5 save slots to save and load different chat histories.
@@ -126,4 +134,5 @@ v0.0.14.0a:
 
 ===========================================================
 
-![Screenshot 2025-02-26 152321](https://github.com/user-attachments/assets/c59ebebc-ae50-49da-b546-a1a51b01ed0c)
+![Screenshot 2025-07-05 100728](https://github.com/user-attachments/assets/ba823ea5-7823-4100-bdab-9ab9060abd73)
+
