@@ -42,7 +42,7 @@ More than just an assistant, Desktop Pal is a true companion—working alongside
 
 ===========================================================
 
-Commands:
+Commands for Female 1:
 
 Dress her in her regular attire: "Put on your normal clothes"
 
@@ -109,12 +109,6 @@ Added GLaDOS Voice from the game Portal
 Added Simplified Chinese Voice
 
 v0.0.14.0a:
-
--changed LLM context length to a higher 32K from the original 8K length but will need higher system requirements for this version, v0.0.13.0a will still be available to download for people with lower system requirements
-
--Now uses a custom 32K llama3 GGUF model
-
--New Version Recommend VRAM 8GB + System RAM 32GB
 
 -Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
 
