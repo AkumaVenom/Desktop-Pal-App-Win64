@@ -8,7 +8,7 @@ v0.0.18.0a: https://drive.google.com/file/d/1YqqeaVxUGhUm9dTHdmdNnfGXH6dfHjZD/vi
 
 Update v0.0.18.0:
 
-The context length now adjusts to what the llm model is trained at so you can now use any gguf model that you want to with version v0.0.18.0 - The default supplied gguf model is 8k context length llmam3 model, you can download others from huggingface.
+The context length now adjusts to what the llm model is trained at so you can now use any gguf model that you want to with version v0.0.18.0 - The default supplied gguf model is 8k context length llama3 model, you can download others from huggingface.
 
 ===========================================================
 
