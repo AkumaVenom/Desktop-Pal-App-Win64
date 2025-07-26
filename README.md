@@ -2,31 +2,13 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-(64K Context Length) v0.0.17.1a: https://drive.google.com/file/d/1bzLx_wU0MOVepLUlvo8gOGDGZNOszKNE/view?usp=sharing
-
-(32K Context Length) v0.0.17.0a: https://drive.google.com/file/d/1D5RLSeDqh3345K7VkD_Wrz4Ixa4_tq38/view?usp=sharing
-
-(8K Context Length) v0.0.13.0a: https://drive.google.com/file/d/10DlltpqX3shkST-ygmyHHSjodQI8Hvl5/view?usp=sharing
+v0.0.18.0a: https://drive.google.com/file/d/1YqqeaVxUGhUm9dTHdmdNnfGXH6dfHjZD/view?usp=sharing
 
 ===========================================================
 
-Update v0.0.17.1a:
+Update v0.0.18.0:
 
--changed LLM context length to a higher 64K from the original 8K & 32K lengths
-
--Now uses a custom 64K llama3 GGUF model
-
--Version (0.0.17.1) Recommended VRAM 14GB + System RAM 32GB
-
-===========================================================
-
-Update v0.0.17.0a:
-
-Memories Feature (Experimental)
-
--Added an editable text box to save new memories into existing inital prompts, Just type or paste text into the Memories box and then click the save memory button and the LLM will never forget your new added memory.
-
-(Just remember to be mindful of the 32k context length overall)
+The context length now adjusts to what the llm model is trained at so you can now use any gguf model that you want to with version v0.0.18.0 - The default supplied gguf model is 8k context length llmam3 model, you can download others from huggingface.
 
 ===========================================================
 
@@ -84,11 +66,7 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 Recommended System Requirements:
 
--Version (0.0.17.1) (64K Context Length) Recommended VRAM 14GB + System RAM 32GB
-
--Version (0.0.17.0) (32K Context Length) Recommended VRAM 8GB + System RAM 20GB
-
--Version (0.0.13.0) (8K Context Length) Recommended VRAM 6GB + System RAM 16GB
+(8K Context Length) Recommended VRAM 6GB + System RAM 16GB
 
 SSD/HDD: 10GB
 
