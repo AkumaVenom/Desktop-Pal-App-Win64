@@ -2,17 +2,31 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.18.0a: https://drive.google.com/file/d/1YqqeaVxUGhUm9dTHdmdNnfGXH6dfHjZD/view?usp=sharing
+v0.0.19.1a: https://drive.google.com/uc?export=download&id=1tSPxS4ls_jDeYqBC37HOcF3qRSb6rg9Q
 
 ===========================================================
 
-Update v0.0.18.0:
+Update v0.0.19.1:
 
-The context length now adjusts to what the llm model is trained at so you can now use any gguf model that you want to with version v0.0.18.0 - The default supplied gguf model is 8k context length llama3 model, you can download others from huggingface.
+- Added The Auto Talking Feature: Just tick the auto response box and select a minimum auto response time delay and a maximum auto response time delay in seconds (use numbers, not text)
+
+- Added "Elisa" Custom Voice Model - US English
+
+- Added AI Face Character
+
+- Added Scifi Male Character
+
+- Added Robot Character
+
+- Removed pink hair female character
+
+- Removed Toon Stylized Male
 
 ===========================================================
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
+
+![1](https://github.com/user-attachments/assets/f509f999-c6d5-44f8-9df4-34d54f671b29)
 
 ===========================================================
 
