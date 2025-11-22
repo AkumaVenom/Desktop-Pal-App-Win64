@@ -66,12 +66,6 @@ Dress her in her sleep attire: "Put on your sleep wear"
 
 ===========================================================
 
-It is highly recommended to install Cuda 12.2 for use with the LLM and if Cuda is not detected it will use CPU instead.
-
-https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
-
-===========================================================
-
 The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use but a 32k context length model will most likely be required for any app versions passed v0.0.13.0a, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
@@ -80,13 +74,17 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 Recommended System Requirements:
 
-(8K Context Length) Recommended VRAM 6GB + System RAM 16GB
+Recommended VRAM 6GB
+
+System RAM 16GB
 
 SSD/HDD: 10GB
 
 Direct X 11 & Direct X 12
 
 OS: Windows 11 64bit
+
+CUDA 12.2 - https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
 
 Requires a CPU that supports AVX, AVX2 and FMA.
 
