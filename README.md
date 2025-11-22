@@ -66,7 +66,7 @@ Dress her in her sleep attire: "Put on your sleep wear"
 
 ===========================================================
 
-The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use but a 32k context length model will most likely be required for any app versions passed v0.0.13.0a, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
+The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
