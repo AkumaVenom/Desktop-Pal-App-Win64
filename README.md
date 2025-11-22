@@ -8,7 +8,7 @@ v0.0.19.2a: Coming Soon.
 
 Update v0.0.19.2a:
 
-- Added a "Windows Info Scan" Button: the ai in fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
+- Added a "Windows Info Scan" Button: the ai is fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
     
 - Removed Experimental Memory Prompt Input
 
