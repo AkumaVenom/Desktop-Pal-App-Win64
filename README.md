@@ -2,31 +2,23 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.19.1a: https://drive.google.com/uc?export=download&id=1tSPxS4ls_jDeYqBC37HOcF3qRSb6rg9Q
+v0.0.19.2a: Coming Soon.
 
 ===========================================================
 
-Update v0.0.19.1:
+Update v0.0.19.2a:
 
-- Added The Auto Talking Feature: Just tick the auto response box and select a minimum auto response time delay and a maximum auto response time delay in seconds (use numbers, not text)
+- Added a "Windows Info Scan" Button: the ai in fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
+    
+- Removed Experimental Memory Prompt Input
 
-- Added "Elisa" Custom Voice Model - US English
-
-- Added AI Face Character
-
-- Added Scifi Male Character
-
-- Added Robot Character
-
-- Removed pink hair female character
-
-- Removed Toon Stylized Male
+- Added Silent Prompt Input (adds a prompt into the existing context without the ai generating text for the next time you interact with it.)
 
 ===========================================================
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
-![1](https://github.com/user-attachments/assets/f509f999-c6d5-44f8-9df4-34d54f671b29)
+![1](https://github.com/user-attachments/assets/b88a4f6c-9124-433c-a505-f41c9ed5e0e0)
 
 ===========================================================
 
@@ -67,6 +59,24 @@ Dress her in her sleep attire: "Put on your sleep wear"
 The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
+
+===========================================================
+
+Update v0.0.19.1:
+
+- Added The Auto Talking Feature: Just tick the auto response box and select a minimum auto response time delay and a maximum auto response time delay in seconds (use numbers, not text)
+
+- Added "Elisa" Custom Voice Model - US English
+
+- Added AI Face Character
+
+- Added Scifi Male Character
+
+- Added Robot Character
+
+- Removed pink hair female character
+
+- Removed Toon Stylized Male
 
 ===========================================================
 
