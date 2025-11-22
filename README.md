@@ -72,7 +72,7 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 Recommended System Requirements:
 
-Recommended VRAM 6GB
+VRAM 6GB
 
 System RAM 16GB
 
