@@ -50,7 +50,7 @@ F12 key makes the app window disable being on top.
 
 Introducing Desktop Pal, an AI-powered companion that seamlessly integrates into your desktop experience, bringing a new level of interaction to your digital workspace. Powered by native text-to-speech LLM models, Desktop Pal allows you to converse, engage, and get assistance—all while continuing your tasks without interruption.
 
-Your default companion, Riku, is a friendly and intelligent female AI who’s not just here to help, but to connect with you. Whether you need support with your work, want to brainstorm ideas, or simply need someone to talk to, Desktop Pal is always there. With the ability to enter any initial prompt and use any GGUF model downloaded from Hugging Face, you can personalize your companion to suit your needs and make every interaction feel more natural.
+Your 2 default companions, Riku and FEM-CABAL are friendly and intelligent AI who’s not just here to help, but to connect with you. Whether you need support with your work, want to brainstorm ideas, or simply need someone to talk to, Desktop Pal is always there. With the ability to enter any initial prompt and use any GGUF model downloaded from Hugging Face, you can personalize your companion to suit your needs and make every interaction feel more natural.
 
 More than just an assistant, Desktop Pal is a true companion—working alongside you, enhancing your workflow, and offering companionship in your daily tasks. Say goodbye to boring, impersonal tools, and welcome an AI that truly feels like part of your workspace.
 
@@ -105,28 +105,6 @@ AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 Save Data Info:
 
 Save data is located in the hidden appdata folder: C:\Users\computername\AppData\Local\DesktopPal\Saved\SaveGames
-
-===========================================================
-
-Update v0.0.16.0a:
-
-Added a total of 10 save slots to save and load different chat histories.
-
-Added a new animated 3D character to select "Female 3"
-
-Update v0.0.15.0a:
-
-Added 5 save slots to save and load different chat histories.
-
-Added GLaDOS Voice from the game Portal
-
-Added Simplified Chinese Voice
-
-v0.0.14.0a:
-
--Added 14 different voice models "male/female" "U.S/British" to pick from PLUS some models have speaker ID value numbers that can be changed to pick a unique voice giving you a customization of over 900 different voices PLUS there is now a voice pitch control slider bar to customize the voices even further.
-
--Added 3 unique Character models fully animated on screen: 2 females & 1 male.
 
 ===========================================================
 
