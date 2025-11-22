@@ -32,8 +32,6 @@ Update v0.0.19.1:
 
 Controls:
 
-Hold T key while talking into microphone to speak to the a.i
-
 F6 & F7 Keys can toggle the UIs on and off.
 
 F11 Key toggles between Fullscreen & Windowed Mode
