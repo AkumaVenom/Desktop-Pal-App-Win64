@@ -106,6 +106,8 @@ AMD: All Ryzen series
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
+Donation/Tips https://www.paypal.me/akumacreative
+
 ===========================================================
 
 Save Data Info:
