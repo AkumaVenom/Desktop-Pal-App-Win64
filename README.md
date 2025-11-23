@@ -2,17 +2,25 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.19.2a: https://drive.google.com/uc?export=download&id=1aEqFTtWLmoPA42TFSa0nObLYnCYYEvi5
+v0.0.19.3a: https://drive.google.com/uc?export=download&id=1K0gdg5TamoXlLbGt5sriL4JM-x8WlL8P
 
 ===========================================================
 
-Update v0.0.19.2a:
+Update v0.0.19.3a:
 
-- Added a "Windows Info Scan" Button: the ai is fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
-    
-- Removed Experimental Memory Prompt Input
+Desktop Pal AI is now Windows desktop aware, thanks to the new update.
+Your Desktop Pal AI companion can actually sense what you’re doing on your PC in real time — no hacks, no polling loops, no external tools.
+It reacts instantly or on a delay to real Windows events.
 
-- Added Silent Prompt Input (adds a prompt into the existing context without the ai generating text for the next time you interact with it.)
+Active window focus changes: 
+Your AI knows exactly which app or web browser page you’re interacting with. Especially useful for web browsers (tab title changes & new web pages detected).
+
+Context-aware dialog
+“I see you opened YouTube — want recommendations?”
+“Looks like you're reading a UE tutorial, want help with that?”
+
+Smart workflow assistance:
+AI becomes aware when you switch between development, browsing, editing, gaming, etc.
 
 ===========================================================
 
@@ -61,6 +69,14 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
 ===========================================================
+
+Update v0.0.19.2a:
+
+- Added a "Windows Info Scan" Button: the ai is fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
+    
+- Removed Experimental Memory Prompt Input
+
+- Added Silent Prompt Input (adds a prompt into the existing context without the ai generating text for the next time you interact with it.)
 
 Update v0.0.19.1:
 
