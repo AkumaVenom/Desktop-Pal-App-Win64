@@ -41,7 +41,9 @@ F12 key makes the app window disable being on top.
 
 ===========================================================
 
-Introducing Desktop Pal, an AI-powered companion that seamlessly integrates into your desktop experience, bringing a new level of interaction to your digital workspace. Powered by native text-to-speech LLM models, Desktop Pal allows you to converse, engage, and get assistance—all while continuing your tasks without interruption.
+Introducing Desktop Pal, an offine cutting edge OS-Level aware AI-powered companion that seamlessly integrates into your desktop experience, bringing a new level of interaction to your digital workspace. Powered by native text-to-speech LLM models, Desktop Pal allows you to converse, engage, and get assistance—all while continuing your tasks without interruption.
+
+Desktop Pal AI can monitor your Windows OS active window and see all visible text from browsers, text documents, editors, and many other applications. Whether it’s a webpage, Notepad file, or UI labels inside another app, Desktop Pal reads what you’re seeing and uses that information to generate context-OS-aware responses driven by your custom prompts.
 
 Your 2 default companions, Riku and FEM-CABAL are friendly and intelligent AI who’s not just here to help, but to connect with you. Whether you need support with your work, want to brainstorm ideas, or simply need someone to talk to, Desktop Pal is always there. With the ability to enter any initial prompt and use any GGUF model downloaded from Hugging Face, you can personalize your companion to suit your needs and make every interaction feel more natural.
 
