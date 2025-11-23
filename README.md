@@ -2,25 +2,20 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.19.3a: https://drive.google.com/uc?export=download&id=1K0gdg5TamoXlLbGt5sriL4JM-x8WlL8P
+v0.0.20.0a: https://drive.google.com/uc?export=download&id=1_AQlhgdiBoSVwTiUr-qLe2uAOvL2dUUc
 
 ===========================================================
 
-Update v0.0.19.3a:
+v0.0.20.0a: the ai is more windows OS aware and getting smarter!
 
-Desktop Pal AI is now Windows desktop aware, thanks to the new update.
-Your Desktop Pal AI companion can actually sense what you’re doing on your PC in real time — no hacks, no polling loops, no external tools.
-It reacts instantly or on a delay to real Windows events.
+Desktop Pal AI is now fully aware of the text content inside your active focused window.
+Whether you're viewing a webpage, editing a Notepad document, or using another application, Desktop Pal can automatically see the visible on-screen text and respond intelligently based on your prompts. This enables dynamic reactions, context-aware conversation, and a much deeper level of interaction.
 
-Active window focus changes: 
-Your AI knows exactly which app or web browser page you’re interacting with. Especially useful for web browsers (tab title changes & new web pages detected).
+===========================================================
 
-Context-aware dialog
-“I see you opened YouTube — want recommendations?”
-“Looks like you're reading a UE tutorial, want help with that?”
+AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
-Smart workflow assistance:
-AI becomes aware when you switch between development, browsing, editing, gaming, etc.
+Donation/Tips https://www.paypal.me/akumacreative
 
 ===========================================================
 
@@ -70,6 +65,22 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 ===========================================================
 
+Update v0.0.19.3a:
+
+Desktop Pal AI is now Windows desktop aware, thanks to the new update.
+Your Desktop Pal AI companion can actually sense what you’re doing on your PC in real time — no hacks, no polling loops, no external tools.
+It reacts instantly or on a delay to real Windows events.
+
+Active window focus changes: 
+Your AI knows exactly which app or web browser page you’re interacting with. Especially useful for web browsers (tab title changes & new web pages detected).
+
+Context-aware dialog
+“I see you opened YouTube — want recommendations?”
+“Looks like you're reading a UE tutorial, want help with that?”
+
+Smart workflow assistance:
+AI becomes aware when you switch between development, browsing, editing, gaming, etc.
+
 Update v0.0.19.2a:
 
 - Added a "Windows Info Scan" Button: the ai is fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
@@ -117,12 +128,6 @@ The following CPUs should work:
 Intel: 4th Generation (Haswell) and above
 
 AMD: All Ryzen series
-
-========================================
-
-AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
-
-Donation/Tips https://www.paypal.me/akumacreative
 
 ===========================================================
 
