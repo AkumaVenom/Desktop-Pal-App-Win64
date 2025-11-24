@@ -4,6 +4,8 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 v0.0.20.0a: https://drive.google.com/uc?export=download&id=1_AQlhgdiBoSVwTiUr-qLe2uAOvL2dUUc
 
+Recommended LLM Model for best AI quality: https://huggingface.co/MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/blob/main/Llama-3-8B-Instruct-32k-v0.1.Q8_0.gguf
+
 ===========================================================
 
 v0.0.20.0a: the ai is more windows OS aware and getting smarter!
