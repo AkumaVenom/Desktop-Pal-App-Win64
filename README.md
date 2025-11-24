@@ -2,16 +2,17 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.20.0a: https://drive.google.com/uc?export=download&id=1_AQlhgdiBoSVwTiUr-qLe2uAOvL2dUUc
-
-Recommended LLM Model for best AI quality: https://huggingface.co/MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/blob/main/Llama-3-8B-Instruct-32k-v0.1.Q8_0.gguf
+v0.0.21.0a: https://drive.google.com/uc?export=download&id=1atYCFIuvVJ6Ti_UYzlfc8KYGnzMBKcuF
 
 ===========================================================
 
-v0.0.20.0a: the ai is more windows OS aware and getting smarter!
+v0.0.21.0a: 
 
-Desktop Pal AI is now fully aware of the text content inside your active focused window.
-Whether you're viewing a webpage, editing a Notepad document, or using another application, Desktop Pal can automatically see the visible on-screen text and respond intelligently based on your prompts. This enables dynamic reactions, context-aware conversation, and a much deeper level of interaction.
+Changed the default used LLM model to a higher quality Q_8.gguf (IMPORTANT) so the AI can preform as a OS aware AI much better.
+
+Added a Memory Length Input Box (It is set to -1 by default so it reads and uses the max context length of the LLM model automatically, (can be set in Numbered Tokens if desired.)
+
+Added Number of GPU Layers Input Box (It is set to 20 by default. If your GPU can easily handle it then i recommend changing it to 28+ for super fast LLM text generation.)
 
 ===========================================================
 
@@ -23,7 +24,7 @@ Donation/Tips https://www.paypal.me/akumacreative
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 155731" src="https://github.com/user-attachments/assets/16aebbc1-e90b-4aed-8cbc-2e90d3993cdd" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
 
 ===========================================================
 
@@ -69,6 +70,11 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 ===========================================================
 
+v0.0.20.0a
+
+Desktop Pal AI is now fully aware of the text content inside your active focused window.
+Whether you're viewing a webpage, editing a Notepad document, or using another application, Desktop Pal can automatically see the visible on-screen text and respond intelligently based on your prompts. This enables dynamic reactions, context-aware conversation, and a much deeper level of interaction.
+
 Update v0.0.19.3a:
 
 Desktop Pal AI is now Windows desktop aware, thanks to the new update.
@@ -93,31 +99,15 @@ Update v0.0.19.2a:
 
 - Added Silent Prompt Input (adds a prompt into the existing context without the ai generating text for the next time you interact with it.)
 
-Update v0.0.19.1:
-
-- Added The Auto Talking Feature: Just tick the auto response box and select a minimum auto response time delay and a maximum auto response time delay in seconds (use numbers, not text)
-
-- Added "Elisa" Custom Voice Model - US English
-
-- Added AI Face Character
-
-- Added Scifi Male Character
-
-- Added Robot Character
-
-- Removed pink hair female character
-
-- Removed Toon Stylized Male
-
 ===========================================================
 
 Recommended System Requirements:
 
-VRAM 6GB
+VRAM 10GB+
 
-System RAM 16GB
+System RAM 20GB+
 
-SSD/HDD: 10GB
+SSD/HDD: 15GB
 
 Direct X 11 & Direct X 12
 
