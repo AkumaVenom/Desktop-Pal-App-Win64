@@ -8,7 +8,7 @@ v0.0.21.1a: https://drive.google.com/uc?export=download&id=17ZAkhXE-3-3JBAuDP14-
 
 v0.0.21.1a:
 
-Fixed and stopped the LLM from talking over its self while it is already talking (instant respond to pc acitvity works properly now)
+Fixed and stopped the LLM from talking over its self while it is already talking (instant respond to pc activity works properly now)
 
 ===========================================================
 
