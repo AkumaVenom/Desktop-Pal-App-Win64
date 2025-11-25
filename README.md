@@ -2,17 +2,13 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.21.0a: https://drive.google.com/uc?export=download&id=1atYCFIuvVJ6Ti_UYzlfc8KYGnzMBKcuF
+v0.0.21.1a: https://drive.google.com/uc?export=download&id=17ZAkhXE-3-3JBAuDP14-bXWQOCY1dh8-
 
 ===========================================================
 
-v0.0.21.0a: 
+v0.0.21.1a:
 
-Changed the default used LLM model to a higher quality Q_8.gguf (IMPORTANT) so the AI can preform as a OS aware AI much better.
-
-Added a Memory Length Input Box (It is set to -1 by default so it reads and uses the max context length of the LLM model automatically, (can be set in Numbered Tokens if desired.)
-
-Added Number of GPU Layers Input Box (It is set to 20 by default. If your GPU can easily handle it then i recommend changing it to 28+ for super fast LLM text generation.)
+Fixed and stopped the LLM from talking over its self while it is already talking (instant respond to pc acitvity works properly now)
 
 ===========================================================
 
@@ -70,6 +66,14 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 ===========================================================
 
+v0.0.21.0a: 
+
+Changed the default used LLM model to a higher quality Q_8.gguf (IMPORTANT) so the AI can preform as a OS aware AI much better.
+
+Added a Memory Length Input Box (It is set to -1 by default so it reads and uses the max context length of the LLM model automatically, (can be set in Numbered Tokens if desired.)
+
+Added Number of GPU Layers Input Box (It is set to 20 by default. If your GPU can easily handle it then i recommend changing it to 28+ for super fast LLM text generation.)
+
 v0.0.20.0a
 
 Desktop Pal AI is now fully aware of the text content inside your active focused window.
@@ -90,14 +94,6 @@ Context-aware dialog
 
 Smart workflow assistance:
 AI becomes aware when you switch between development, browsing, editing, gaming, etc.
-
-Update v0.0.19.2a:
-
-- Added a "Windows Info Scan" Button: the ai is fed various info of your pc for example your PC's name and GPU info, system ram and internet connectivity ect.
-    
-- Removed Experimental Memory Prompt Input
-
-- Added Silent Prompt Input (adds a prompt into the existing context without the ai generating text for the next time you interact with it.)
 
 ===========================================================
 
