@@ -4,6 +4,8 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 v0.0.22.1a: https://drive.google.com/uc?export=download&id=17tZ-ve1aly56VIHBhcGSWdbgKv36KXtX
 
+Rainmeter OS AI Skin: https://drive.google.com/uc?export=download&id=1mX8J1-olbVihfvkdmvUsk3XHV2X-pMe7
+
 Mirror: https://drive.google.com/uc?export=download&id=1hXTrks_kJqJ0m74tnU4Sf8HtC-I2gmcQ
 
 ===========================================================
@@ -11,6 +13,8 @@ Mirror: https://drive.google.com/uc?export=download&id=1hXTrks_kJqJ0m74tnU4Sf8Ht
 v0.0.22.1a:
 
 - Updated the Microphone to require holding down "Z" Key while desktop pal window is active. (fixed micophone to work properly).
+
+- Added​ Rainmeter OS AI Skin Download For Extra OS AI Immersion.
 
 ===========================================================
 
