@@ -4,11 +4,13 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 v0.0.21.1a: https://drive.google.com/uc?export=download&id=17ZAkhXE-3-3JBAuDP14-bXWQOCY1dh8-
 
+v0.0.22.0a: Coming Soon!
+
 ===========================================================
 
-v0.0.21.1a:
+v0.0.22.0a:
 
-Fixed and stopped the LLM from talking over its self while it is already talking (instant respond to pc activity works properly now)
+- Added a new Animated UI Cyber Eye Character to use. It's animation spins in circular motions and lights up and pulses when thinking and talking
 
 ===========================================================
 
@@ -19,6 +21,8 @@ Donation/Tips https://www.paypal.me/akumacreative
 ===========================================================
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
+
+<img width="3839" height="2159" alt="Screenshot 2025-11-28 004008" src="https://github.com/user-attachments/assets/fff07ce9-1b08-420e-8023-c4d285896b68" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
 
