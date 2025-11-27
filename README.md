@@ -2,15 +2,15 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.22.0a: https://drive.google.com/uc?export=download&id=14BqTlwlEoBiEfdD-p2Hnrou6jJXrWR-6
+v0.0.22.1a: https://drive.google.com/uc?export=download&id=17tZ-ve1aly56VIHBhcGSWdbgKv36KXtX
 
-Mirror: https://drive.google.com/uc?export=download&id=1jPjmRktjfea-Gg95tpnqvotNDAr6U8ks
+Mirror: https://drive.google.com/uc?export=download&id=1hXTrks_kJqJ0m74tnU4Sf8HtC-I2gmcQ
 
 ===========================================================
 
-v0.0.22.0a:
+v0.0.22.1a:
 
-- Added a new Animated UI Cyber Eye Character to use. It's animation spins in circular motions and lights up and pulses when thinking and talking
+- Updated the Microphone to require holding down "Z" Key while desktop pal window is active. (fixed micophone to work properly).
 
 ===========================================================
 
