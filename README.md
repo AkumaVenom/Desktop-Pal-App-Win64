@@ -26,7 +26,7 @@ Donation/Tips https://www.paypal.me/akumacreative
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
-![Main](https://github.com/user-attachments/assets/f9cbc78b-214c-4752-9863-4f237eef5a09)
+<img width="1920" height="1080" alt="Main2" src="https://github.com/user-attachments/assets/43b9adf0-4695-4d53-b2ee-2b39a4655108" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
 
