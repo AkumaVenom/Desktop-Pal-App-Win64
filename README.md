@@ -2,19 +2,17 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.22.1a: https://drive.google.com/uc?export=download&id=17tZ-ve1aly56VIHBhcGSWdbgKv36KXtX
+v0.0.22.2a: https://drive.google.com/uc?export=download&id=1gNVo51vXhO2pZBc6c3UkHTNI2Ez8pe12
 
-Rainmeter OS AI Skin: https://drive.google.com/uc?export=download&id=1mX8J1-olbVihfvkdmvUsk3XHV2X-pMe7
-
-Mirror: https://drive.google.com/uc?export=download&id=1hXTrks_kJqJ0m74tnU4Sf8HtC-I2gmcQ
+Mirror: https://drive.google.com/uc?export=download&id=1pewz0ze1bGXACoAqhsQ7HhUFuRgj7xYa
 
 ===========================================================
 
-v0.0.22.1a:
+v0.0.22.2a:
 
-- Updated the Microphone to require holding down "Z" Key while desktop pal window is active. (fixed micophone to work properly).
+- Added a moving circular animated eye lens for the Cyber Eye UI Character - It feels much more alive now (Includes: Blue Eye lens for lisenting to user on mic, Orange Eye lens for thinking, Green Eye lens for talking to user.
 
-- Added​ Rainmeter OS AI Skin Download For Extra OS AI Immersion.
+- Added​ Rainmeter OS AI Skin For Extra OS AI Immersion inside main download.
 
 ===========================================================
 
@@ -71,37 +69,6 @@ Dress her in her sleep attire: "Put on your sleep wear"
 The GGUF LLM model can be replaced in the packaged build of the app to one that you want to use, change the file name of your selected GGUF model to what the current model file name is and it should work as long as its .GGUF file format.
 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
-
-===========================================================
-
-v0.0.21.0a: 
-
-Changed the default used LLM model to a higher quality Q_8.gguf (IMPORTANT) so the AI can preform as a OS aware AI much better.
-
-Added a Memory Length Input Box (It is set to -1 by default so it reads and uses the max context length of the LLM model automatically, (can be set in Numbered Tokens if desired.)
-
-Added Number of GPU Layers Input Box (It is set to 20 by default. If your GPU can easily handle it then i recommend changing it to 28+ for super fast LLM text generation.)
-
-v0.0.20.0a
-
-Desktop Pal AI is now fully aware of the text content inside your active focused window.
-Whether you're viewing a webpage, editing a Notepad document, or using another application, Desktop Pal can automatically see the visible on-screen text and respond intelligently based on your prompts. This enables dynamic reactions, context-aware conversation, and a much deeper level of interaction.
-
-Update v0.0.19.3a:
-
-Desktop Pal AI is now Windows desktop aware, thanks to the new update.
-Your Desktop Pal AI companion can actually sense what you’re doing on your PC in real time — no hacks, no polling loops, no external tools.
-It reacts instantly or on a delay to real Windows events.
-
-Active window focus changes: 
-Your AI knows exactly which app or web browser page you’re interacting with. Especially useful for web browsers (tab title changes & new web pages detected).
-
-Context-aware dialog
-“I see you opened YouTube — want recommendations?”
-“Looks like you're reading a UE tutorial, want help with that?”
-
-Smart workflow assistance:
-AI becomes aware when you switch between development, browsing, editing, gaming, etc.
 
 ===========================================================
 
