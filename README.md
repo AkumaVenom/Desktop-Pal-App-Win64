@@ -8,14 +8,6 @@ Mirror: https://drive.google.com/uc?export=download&id=1pewz0ze1bGXACoAqhsQ7HhUF
 
 ===========================================================
 
-v0.0.22.2a:
-
-- Added a moving circular animated eye lens for the Cyber Eye UI Character - It feels much more alive now (Includes: Blue Eye lens for lisenting to user on mic, Orange Eye lens for thinking, Green Eye lens for talking to user.
-
-- Added​ Rainmeter OS AI Skin For Extra OS AI Immersion inside main download.
-
-===========================================================
-
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
 
 Donation/Tips https://www.paypal.me/akumacreative
@@ -24,9 +16,7 @@ Donation/Tips https://www.paypal.me/akumacreative
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
-<img width="1920" height="1080" alt="Main2" src="https://github.com/user-attachments/assets/43b9adf0-4695-4d53-b2ee-2b39a4655108" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
+![Image_fx(3)](https://github.com/user-attachments/assets/f54304ea-7e79-4940-8d32-7446de4d9a2e)
 
 ===========================================================
 
@@ -72,6 +62,14 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 ===========================================================
 
+v0.0.22.2a:
+
+- Added a moving circular animated eye lens for the Cyber Eye UI Character - It feels much more alive now (Includes: Blue Eye lens for lisenting to user on mic, Orange Eye lens for thinking, Green Eye lens for talking to user.
+
+- Added​ Rainmeter OS AI Skin For Extra OS AI Immersion inside main download.
+
+===========================================================
+
 Recommended System Requirements:
 
 VRAM 10GB+
@@ -102,3 +100,6 @@ Save data is located in the hidden appdata folder: C:\Users\computername\AppData
 
 ===========================================================
 
+<img width="1920" height="1080" alt="Main2" src="https://github.com/user-attachments/assets/43b9adf0-4695-4d53-b2ee-2b39a4655108" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
