@@ -16,6 +16,8 @@ Donation/Tips https://www.paypal.me/akumacreative
 
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
+<img width="1920" height="1080" alt="mki" src="https://github.com/user-attachments/assets/fbffdf17-dda1-4e9c-87e8-60ed5e7dbc5d" />
+
 ![Image_fx(3)](https://github.com/user-attachments/assets/f54304ea-7e79-4940-8d32-7446de4d9a2e)
 
 ===========================================================
