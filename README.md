@@ -2,9 +2,9 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.23.1a: https://drive.google.com/uc?export=download&id=1s21NWh7OfaghUfMbhwhg52VCcz0PklP_
+v0.0.23.1a: [Click Here](https://drive.google.com/uc?export=download&id=1s21NWh7OfaghUfMbhwhg52VCcz0PklP_)
 
-Mirror: https://drive.google.com/uc?export=download&id=1-dj2oLkJSL_6acMcog8PTxkwU-EkjRPq
+Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1-dj2oLkJSL_6acMcog8PTxkwU-EkjRPq)
 
 ===========================================================
 
