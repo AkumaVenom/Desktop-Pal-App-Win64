@@ -2,9 +2,9 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.23.0a: https://drive.google.com/uc?export=download&id=1noUyxRoHLnIED2KQ_slnqz8OYXN1Ix8l
+v0.0.23.1a: https://drive.google.com/uc?export=download&id=1s21NWh7OfaghUfMbhwhg52VCcz0PklP_
 
-Mirror: https://drive.google.com/uc?export=download&id=1GjLHVJJXjwNQGDShdcxjwYn9BOSyt6j1
+Mirror: https://drive.google.com/uc?export=download&id=1-dj2oLkJSL_6acMcog8PTxkwU-EkjRPq
 
 ===========================================================
 
@@ -63,6 +63,10 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
 ===========================================================
+
+Update v0.0.23.1:
+
+- Bug fixes to the thinking popup ui
 
 Update v0.0.23.0:
 
