@@ -101,5 +101,3 @@ Save data is located in the hidden appdata folder: C:\Users\computername\AppData
 ===========================================================
 
 <img width="1920" height="1080" alt="Main2" src="https://github.com/user-attachments/assets/43b9adf0-4695-4d53-b2ee-2b39a4655108" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 230220" src="https://github.com/user-attachments/assets/dbbdfc5d-e52e-4421-947c-ff3177ee9cc5" />
