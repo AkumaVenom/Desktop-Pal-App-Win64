@@ -2,9 +2,9 @@
 
 Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
-v0.0.22.2a: https://drive.google.com/uc?export=download&id=1gNVo51vXhO2pZBc6c3UkHTNI2Ez8pe12
+v0.0.23.0a: https://drive.google.com/uc?export=download&id=1noUyxRoHLnIED2KQ_slnqz8OYXN1Ix8l
 
-Mirror: https://drive.google.com/uc?export=download&id=1pewz0ze1bGXACoAqhsQ7HhUFuRgj7xYa
+Mirror: https://drive.google.com/uc?export=download&id=1GjLHVJJXjwNQGDShdcxjwYn9BOSyt6j1
 
 ===========================================================
 
@@ -64,11 +64,9 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 
 ===========================================================
 
-v0.0.22.2a:
+Update v0.0.23.0:
 
-- Added a moving circular animated eye lens for the Cyber Eye UI Character - It feels much more alive now (Includes: Blue Eye lens for lisenting to user on mic, Orange Eye lens for thinking, Green Eye lens for talking to user.
-
-- Added​ Rainmeter OS AI Skin For Extra OS AI Immersion inside main download.
+The old cyber-mask has been completely replaced with a fully animated 3D holographic AI face—closer in quality and presence to a modern AAA C&C “CABAL-style” system. transforming Desktop Pal into a truer AI system core, with a cleaner, more advanced, more immersive identity.
 
 ===========================================================
 
