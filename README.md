@@ -10,7 +10,7 @@ Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1d4wxbYSnCt_
 
 Changelog v0.0.23.2:
 
-- Glados Robot Voice is 5-10 times faster at loading text to play as audio (pretty much instant now after its done thinking.)
+- GLaDOS Robot Voice now loads and plays audio 5–10× faster after thinking.
 
 ===========================================================
 
