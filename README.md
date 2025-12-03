@@ -117,3 +117,11 @@ Save data is located in the hidden appdata folder: C:\Users\computername\AppData
 <img width="1920" height="1080" alt="mki" src="https://github.com/user-attachments/assets/fbffdf17-dda1-4e9c-87e8-60ed5e7dbc5d" />
 
 ![111](https://github.com/user-attachments/assets/a052c474-37f8-46cb-b034-6be9f4650710)
+
+![Riku_Pal](https://github.com/user-attachments/assets/8c9d52e0-d10d-48bf-8db3-0dfa19ce1368)
+
+![CyberMale](https://github.com/user-attachments/assets/2dc03388-1957-4934-8159-6845ad618801)
+
+![Robot](https://github.com/user-attachments/assets/f37492b1-992e-4531-8094-baf3ee6d9f4e)
+
+===========================================================
