@@ -4,9 +4,13 @@ Desktop Pal App - Native TTS LLM A.I Desktop Companion
 
 Video Preview: [Click Here](https://www.youtube.com/watch?v=rLgDXiunZ14)
 
-v0.0.23.1a: [Click Here](https://drive.google.com/uc?export=download&id=1s21NWh7OfaghUfMbhwhg52VCcz0PklP_)
+v0.0.23.2a: [Click Here](https://drive.google.com/uc?export=download&id=1LDVS5_vQuqBRHlYTBuc-g32o2FfRDP4W)
 
-Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1-dj2oLkJSL_6acMcog8PTxkwU-EkjRPq)
+Mirror: [Click Here](https://drive.google.com/uc?export=download&id=1d4wxbYSnCt_9xel3oonO2NP40RmMYh_P)
+
+Changelog v0.0.23.2:
+
+- Glados Robot Voice is 5-10 times faster at loading text to play as audio (pretty much instant now after its done thinking.)
 
 ===========================================================
 
@@ -63,6 +67,12 @@ The GGUF LLM model can be replaced in the packaged build of the app to one that 
 100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
 
 ===========================================================
+
+Changelog
+
+Update v0.0.23.2:
+
+- Glados Robot Voice is 5-10 times faster at loading text to play as audio (pretty much instant now after its done thinking.)
 
 Update v0.0.23.1:
 
