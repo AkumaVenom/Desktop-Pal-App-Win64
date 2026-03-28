@@ -14,12 +14,6 @@ Changelog v0.0.23.2:
 
 ===========================================================
 
-AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
-
-Donation/Tips https://www.paypal.me/akumacreative
-
-===========================================================
-
 ![417135134-2274b4d5-3bef-43b0-a027-7b629d1d4072](https://github.com/user-attachments/assets/3f416172-306e-4ac2-b7fa-a96f9af0003f)
 
 <img width="1280" height="720" alt="Cover720p" src="https://github.com/user-attachments/assets/2636deac-c7de-4a76-a651-6f032d959278" />
